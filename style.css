@@ -29,7 +29,6 @@ section{
 }
 .card_design{
     width: 320px;
-    /* background-color: rgb(227, 228, 224); */
     background-color: #000000;
     padding: 10px;
     border-radius: 10px;
@@ -39,7 +38,6 @@ section{
     width: 100%;
     border-radius: 8px;
     cursor: zoom-in;
-    /* height: 400px; */
 }
 .tools_design{
     display: flex;
